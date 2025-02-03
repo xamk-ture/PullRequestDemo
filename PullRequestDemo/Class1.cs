@@ -17,7 +17,8 @@ namespace PullRequestDemo
             Admin,
             User,
             Guest,
-            Test
+            Test,
+            UUsRooli
         }
 
         public static bool IsAdmin(Role role)
